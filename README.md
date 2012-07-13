@@ -9,6 +9,7 @@ Usage
 -----
 The minimal command is 'mineturtle -h host'. It will build 1000 connections every 30 seconds.
 Parameter cheat sheet:
+
     -help: Shows this message.
     -test: Switch to test mode to find out the optimal value for -t
     -h: Hostname or IP address.
